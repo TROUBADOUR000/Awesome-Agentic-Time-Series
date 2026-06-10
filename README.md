@@ -8,9 +8,9 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
 
 ## 📢 News
 
-🚩 **2026-06-11**- 📄 Our survey is released! See [The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers](https://arxiv.org/) for the paper!
+🚩 **2026-06**- 📄 Our survey is released! See [The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers](https://arxiv.org/) for the paper!
 
-🚩 **2026-06-11**- 📚 We create this repository to maintain a paper list on `Awesome-Agentic-Time-Series`.
+🚩 **2026-06**- 📚 We create this repository to maintain a paper list on `Awesome-Agentic-Time-Series`.
 
 🚩 Contributions are welcome. If a relevant paper is missing or misclassified, please open an issue or submit a pull request.
 
