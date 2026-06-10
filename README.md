@@ -1,16 +1,25 @@
 # Awesome Agentic Time Series
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series/pulls)
 [![Papers](https://img.shields.io/badge/Papers-200%2B-blue.svg)](#-paper-list)
 
 A curated list of papers on **Agentic Time Series**, covering time series foundation models, LLM4TS, temporal reasoning, benchmarks, memory, world models, reliability, and fully agentic time series systems.
 
 ## 📢 News
 
-🚩 **2026-06-01** Initial release of `Awesome-Agentic-Time-Series`.
+🚩 **2026-06-11**- 📄 Our survey is released! See [The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers](https://arxiv.org/) for the paper!
+
+🚩 **2026-06-11**- 📚 We create this repository to maintain a paper list on `Awesome-Agentic-Time-Series`.
 
 🚩 Contributions are welcome. If a relevant paper is missing or misclassified, please open an issue or submit a pull request.
+
+<div align="center">
+  <img src="./assets/AgenticTS-Trees.png" alt="Overview of the evolutionary path of time series intelligence across four major research streams: benchmarks, foundation
+models, LLM4TS, and time series agents." width="80%" />
+  <p><em><strong>Figure:</strong> Overview of the evolutionary path of time series intelligence across four major research streams: <strong>benchmarks</strong>, <strong>foundation models</strong>, <strong>LLM4TS</strong>, and <strong>time series agents</strong>.</em></p>
+</div>
+
 
 ## 💡Introduction
 
@@ -22,6 +31,11 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
   - [Agentic Time Series Systems](#agentic-time-series-systems)
 - [Contributing](#contributing)
 - [Citation](#citation)
+
+<div align="center">
+  <img src="./assets/TimeSeries_Agent.png" alt="The compositional architecture of the closed-loop agentic time series system." width="80%" />
+  <p><em><strong>Figure:</strong> The compositional architecture of the closed-loop agentic time series system.</em></p>
+</div>
 
 ## 📚 Paper list
 
@@ -61,6 +75,10 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
 - [2021/09] Well Googled is Half Done: Multimodal Forecasting of New Fashion Product Sales with Image-based Google Trends. [[paper](https://arxiv.org/abs/2109.09824)]
 
 #### Reasoning, QA and Diagnostic Evaluation
+
+- [2026/06] ODTQA-FoRe: An Open-Domain Tabular Question Answering Dataset for Future Data Forecasting and Reasoning. [[paper](https://arxiv.org/abs/2606.02433)]
+- [2026/06] TimeSage-MT: A Multi-Turn Benchmark for Evaluating Agentic Time Series Reasoning. [[paper](https://arxiv.org/abs/2606.01498)]
+
 - [2026/04] TimeSeriesExamAgent: Creating Time Series Reasoning Benchmarks at Scale. [[paper](https://arxiv.org/abs/2604.10291)]
 - [2026/04] TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems. [[paper](https://arxiv.org/abs/2604.05364)]
 - [2026/04] ARFBench: Benchmarking Time Series Question Answering Ability for Software Incident Response. [[paper](https://arxiv.org/abs/2604.21199)]
@@ -87,6 +105,15 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
 - [2026/05] Dr-CiK: A Testbed for Foresight-Driven Agents. [[paper](https://arxiv.org/abs/2605.27904)]
 - [2025/07] LLM Agents Struggle at Engineering Time Series Solutions. [[paper](https://openreview.net/pdf?id=04fwpztRMB)]
 - [2025/05] TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents. [[paper](https://arxiv.org/abs/2505.13291)]
+
+#### Event Forecasting and Future Prediction
+
+- [2026/01] FutureX-Pro: Extending Future Prediction to High-Value Vertical Domains. [[paper](https://arxiv.org/abs/2601.12259)]
+- [2025/10] LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena. [[paper](https://arxiv.org/abs/2510.17638)]
+- [2025/08] FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction. [[paper](https://arxiv.org/abs/2508.11987)]
+- [2025/02] ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities. [[paper](https://arxiv.org/pdf/2409.19839)]
+- [2024/04] AutoCast++: Enhancing World Event Prediction with Zero-shot Ranking-based Context Retrieval. [[paper](https://arxiv.org/pdf/2310.01880v2)]
+- [2022/06] Forecasting Future World Events with Neural Networks (AutoCast). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/aec870a6772336c15dac992c16f2e7c9-Paper-Datasets_and_Benchmarks.pdf)]
 
 ### Time Series Foundation Models
 
@@ -140,6 +167,7 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
 - [2025/08] Semantic-Enhanced Time-Series Forecasting via Large Language Models. [[paper](https://arxiv.org/abs/2508.07697)]
 - [2025/08] From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization. [[paper](https://arxiv.org/abs/2508.09191)]
 - [2025/08] DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting. [[paper](https://arxiv.org/abs/2508.04239)]
+- [2025/07] DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework. [[paper](https://arxiv.org/abs/2507.21830)]
 - [2025/06] Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives. [[paper](https://arxiv.org/abs/2506.24124)]
 - [2025/05] Human in the Loop Adaptive Optimization for Improved Time Series Forecasting. [[paper](https://arxiv.org/abs/2505.15354)]
 - [2025/03] TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop. [[paper](https://arxiv.org/abs/2503.01013)]
@@ -208,6 +236,7 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
 - [2024/05] CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System. [[paper](https://arxiv.org/abs/2405.14691)]
 
 #### Reasoning Agents
+- [2026/05] KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning. [[paper](https://arxiv.org/abs/2605.30002)]
 - [2026/05] SAGE: Detecting Time Series Anomalies Like an Expert: A Multi-Agent LLM Framework with Specialized Analyzers. [[paper](https://arxiv.org/abs/2605.05725)]
 - [2026/02] AnomaMind: Agentic Time Series Anomaly Detection with Tool-Augmented Reasoning. [[paper](https://arxiv.org/abs/2602.13807)]
 - [2026/01] TimeART: Towards Agentic Time Series Reasoning via Tool-Augmentation. [[paper](https://arxiv.org/abs/2601.13653)]
@@ -221,6 +250,7 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
 - [2024/10] TS-Reasoner: Domain-Oriented Time Series Inference Agents for Reasoning and Automated Analysis. [[paper](https://arxiv.org/abs/2410.04047)]
 
 #### Planning and Action Agents
+- [2026/06] GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis. [[paper](https://arxiv.org/abs/2606.05860)]
 - [2026/05] Nexus: An Agentic Framework for Time Series Forecasting. [[paper](https://arxiv.org/abs/2605.14389)]
 - [2026/05] AION: Next-Generation Tasks and Practical Harness for Time Series. [[paper](https://arxiv.org/abs/2605.25045)]
 - [2026/03] SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms. [[paper](https://arxiv.org/abs/2603.04873)]
@@ -247,6 +277,7 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
 - [2024] MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks. [[paper](https://www.scilit.com/publications/mas-lstm)]
 
 #### Memory and Knowledge Agents
+- [2026/06] MOSAIC: Modular Orchestration for Structured Agentic Intelligence and Composition. [[paper](https://arxiv.org/abs/2606.00708)]
 - [2026/04] CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting. [[paper](https://arxiv.org/abs/2604.27840)]
 - [2026/04] An Autonomous Large Language Model-Agent Framework for Transparent and Local Time Series Forecasting. [[paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aidi.202500236)]
 - [2026/02] MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning. [[paper](https://arxiv.org/abs/2602.03164)]
@@ -268,8 +299,10 @@ A curated list of papers on **Agentic Time Series**, covering time series founda
 - [2026/04] Hubble: An LLM-Driven Agentic Framework for Safe, Diverse, and Reproducible Alpha Factor Discovery. [[paper](https://arxiv.org/abs/2604.09601)]
 - [2026/04] AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems. [[paper](https://arxiv.org/abs/2604.02478)]
 - [2026/02] AgriWorld: A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents. [[paper](https://arxiv.org/abs/2602.15325)]
+- [2026/02] Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases. [[paper](https://arxiv.org/abs/2602.17001)]
 - [2025/10] StockAgent: A Multi-Agent Collaborative Framework for Financial Time Series Prediction. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11327922&tag=1)]
 - [2025/09] Hi-DARTS: Hierarchical Dynamically Adapting Reinforcement Trading System. [[paper](https://arxiv.org/abs/2509.12048)]
+- [2025/04] Multi-Agent Deep Reinforcement Learning for Integrated Demand Forecasting and Inventory Optimization in Sensor-Enabled Retail Supply Chains. [[paper](https://www.mdpi.com/1424-8220/25/8/2428)]
 - [2025/03] FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting. [[paper](https://arxiv.org/abs/2503.02692)]
 - [2025/03] BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modeling. [[paper](https://arxiv.org/abs/2503.02445)]
 - [2024/07] A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [[paper](https://arxiv.org/abs/2407.09546)]
@@ -299,6 +332,10 @@ If the paper has code, data, project pages, or benchmark resources, feel free to
 
 If you find this repository useful, please consider citing the associated survey once available.
 
+```bibtex
+@article{
+}
+```
 
 ## 📄 License
 
