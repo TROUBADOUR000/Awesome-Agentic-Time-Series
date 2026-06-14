@@ -250,6 +250,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2024/10] TS-Reasoner: Domain-Oriented Time Series Inference Agents for Reasoning and Automated Analysis. [[paper](https://arxiv.org/abs/2410.04047)]
 
 #### Planning and Action Agents
+- [2026/06] Harnessing Generalist Agents for Contextualized Time Series. [[paper](https://arxiv.org/abs/2606.05404)]
 - [2026/06] GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis. [[paper](https://arxiv.org/abs/2606.05860)]
 - [2026/05] Nexus: An Agentic Framework for Time Series Forecasting. [[paper](https://arxiv.org/abs/2605.14389)]
 - [2026/05] AION: Next-Generation Tasks and Practical Harness for Time Series. [[paper](https://arxiv.org/abs/2605.25045)]
