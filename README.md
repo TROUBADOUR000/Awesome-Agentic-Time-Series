@@ -29,8 +29,8 @@ models, LLM4TS, and time series agents." width="80%" />
   - [Time Series Foundation Models](#time-series-foundation-models)
   - [LLM4TS](#llm4ts)
   - [Agentic Time Series Systems](#agentic-time-series-systems)
-- [Contributing](#contributing)
-- [Citation](#citation)
+- [Contributing](#-contributing)
+- [Citation](#-citation)
 
 <div align="center">
   <img src="./assets/TimeSeries_Agent.png" alt="The compositional architecture of the closed-loop agentic time series system." width="80%" />
