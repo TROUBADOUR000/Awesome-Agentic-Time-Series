@@ -46,8 +46,11 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2026/02] Position: Beyond Model-Centric Prediction—Agentic Time Series Forecasting. [[paper](https://arxiv.org/abs/2602.01776)]
 - [2025/10] Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision. [[paper](https://arxiv.org/abs/2510.16980)]
 - [2025/09] A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models. [[paper](https://arxiv.org/abs/2509.11575)]
+- [2025/08] Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era. [[paper](https://www.ijcai.org/proceedings/2025/1173)]
+- [2025/08] Harnessing Vision Models for Time Series Analysis: A Survey. [[paper](https://www.ijcai.org/proceedings/2025/1178)]
 - [2025/06] Large Language Models for Time Series Analysis: Techniques, Applications, and Challenges. [[paper](https://arxiv.org/abs/2506.11040)]
 - [2025/02] Achieving Time Series Reasoning Requires Rethinking Model Design, Tasks Formulation, and Evaluation. [[paper](https://arxiv.org/abs/2502.01477)]
+- [2024/07] Position: What Can Large Language Models Tell Us about Time Series Analysis. [[paper](https://proceedings.mlr.press/v235/jin24i.html)]
 - [2024/02] Large Language Models for Time Series: A Survey. [[paper](https://arxiv.org/abs/2402.01801)]
 
 ### Benchmarks and Datasets
@@ -76,6 +79,8 @@ models, LLM4TS, and time series agents." width="80%" />
 
 #### Reasoning, QA and Diagnostic Evaluation
 
+- [2026/07] LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics. [[paper](https://aclanthology.org/2026.findings-acl.1636/)]
+- [2026/07] Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?. [[paper](https://aclanthology.org/2026.findings-acl.1756/)]
 - [2026/06] ODTQA-FoRe: An Open-Domain Tabular Question Answering Dataset for Future Data Forecasting and Reasoning. [[paper](https://arxiv.org/abs/2606.02433)]
 - [2026/06] TimeSage-MT: A Multi-Turn Benchmark for Evaluating Agentic Time Series Reasoning. [[paper](https://arxiv.org/abs/2606.01498)]
 
@@ -112,6 +117,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2025/10] LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena. [[paper](https://arxiv.org/abs/2510.17638)]
 - [2025/08] FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction. [[paper](https://arxiv.org/abs/2508.11987)]
 - [2025/02] ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities. [[paper](https://arxiv.org/pdf/2409.19839)]
+- [2024/12] Approaching Human-Level Forecasting with Language Models. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5a5acfd0876c940d81619c1dc60e7748-Abstract-Conference.html)]
 - [2024/04] AutoCast++: Enhancing World Event Prediction with Zero-shot Ranking-based Context Retrieval. [[paper](https://arxiv.org/pdf/2310.01880v2)]
 - [2022/06] Forecasting Future World Events with Neural Networks (AutoCast). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/aec870a6772336c15dac992c16f2e7c9-Paper-Datasets_and_Benchmarks.pdf)]
 
@@ -129,6 +135,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2025/10] Synthetic Series-Symbol Data Generation for Time Series Foundation Models. [[paper](https://arxiv.org/abs/2510.08445)]
 - [2025/10] Chronos-2: From Univariate to Universal Forecasting. [[paper](https://arxiv.org/abs/2510.15821)]
 - [2025/08] Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting. [[paper](https://arxiv.org/abs/2508.01971)]
+- [2025/07] Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts. [[paper](https://proceedings.mlr.press/v267/liu25an.html)]
 - [2025/06] LightGTS: A Lightweight General Time Series Forecasting Model. [[paper](https://arxiv.org/abs/2506.06005)]
 - [2025/05] TSPulse: Tiny Pre-Trained Models with Disentangled Representations for Rapid Time-Series Analysis. [[paper](https://arxiv.org/abs/2505.13033)]
 - [2025/05] TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning. [[paper](https://arxiv.org/abs/2505.23719)]
@@ -137,6 +144,8 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2025/02] Sundial: A Family of Highly Capable Time Series Foundation Models. [[paper](https://arxiv.org/abs/2502.00816)]
 - [2025/02] GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series Data. [[paper](https://arxiv.org/abs/2502.03264)]
 - [2025/01] From Tables to Time: Extending TabPFN-v2 to Time Series Forecasting. [[paper](https://arxiv.org/abs/2501.02945)]
+- [2024/12] Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/abc1943857a42935ceacff03c524bb44-Abstract-Conference.html)]
+- [2024/12] Scaling Law for Time Series Forecasting. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/97c2f0fac182353062d304d0322ae285-Abstract-Conference.html)]
 - [2024/09] Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts. [[paper](https://arxiv.org/abs/2409.16040)]
 - [2024/07] Toto: Time Series Optimized Transformer for Observability. [[paper](https://arxiv.org/abs/2407.07874)]
 - [2024/03] UniTS: Building a Unified Time Series Model. [[paper](https://arxiv.org/abs/2403.00131)]
@@ -145,6 +154,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2024/02] Timer: Generative Pre-trained Transformers Are Large Time Series Models. [[paper](https://arxiv.org/abs/2402.02368)]
 - [2024/02] MOMENT: A Family of Open Time-series Foundation Models. [[paper](https://arxiv.org/abs/2402.03885)]
 - [2024/01] Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series. [[paper](https://arxiv.org/abs/2401.03955)]
+- [2023/12] ForecastPFN: Synthetically-Trained Zero-Shot Forecasting. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0731f0e65559059eb9cd9d6f44ce2dd8-Abstract-Conference.html)]
 - [2023/10] TimeGPT-1. [[paper](https://arxiv.org/abs/2310.03589)]
 - [2023/10] Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting. [[paper](https://arxiv.org/abs/2310.08278)]
 - [2023/10] A Decoder-Only Foundation Model for Time-Series Forecasting. [[paper](https://arxiv.org/abs/2310.10688)]
@@ -152,10 +162,13 @@ models, LLM4TS, and time series agents." width="80%" />
 ### LLM4TS
 
 #### Translation and Alignment
+- [2026/07] TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting. [[paper](https://aclanthology.org/2026.acl-long.1208/)]
+- [2026/07] Markovian Linguistic-Temporal Bridge: Unlocking the Potential of LLMs for Time Series Forecasting. [[paper](https://aclanthology.org/2026.acl-long.1014/)]
 - [2026/05] What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions. [[paper](https://arxiv.org/abs/2605.14422)]
 - [2026/05] STaT: Resolving Shape Distortion in Non-Stationary Time Series via Tri-Modal Synergy. [[paper](https://arxiv.org/abs/2605.25943)]
 - [2026/05] PaP-NF: Probabilistic Long-Term Time Series Forecasting via Prefix-as-Prompt Reprogramming and Normalizing Flows. [[paper](https://arxiv.org/abs/2605.23219)]
 - [2026/05] Factorize to Generalize: Retrieval-Guided Invariant-Dynamic Decomposition for Time Series Forecasting. [[paper](https://arxiv.org/abs/2605.24911)]
+- [2026/03] M3Time: LLM-Enhanced Multi-Modal, Multi-Scale, and Multi-Frequency Multivariate Time Series Forecasting. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39383)]
 - [2026/02] Multi-scale hypergraph meets LLMs: Aligning large language models for time series analysis. [[paper](https://arxiv.org/abs/2602.04369)]
 - [2026/01] Bridging Temporal and Textual Modalities: A Multimodal Framework for Automated Cloud Failure Root Cause Analysis. [[paper](https://arxiv.org/abs/2601.04709)]
 - [2026/01] An Exploratory Study to Repurpose LLMs to a Unified Architecture for Time Series Classification. [[paper](https://arxiv.org/abs/2601.09971)]
@@ -163,6 +176,8 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2025/10] OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data. [[paper](https://arxiv.org/abs/2510.02410)]
 - [2025/09] Let LLMs Speak Embedding Languages: Generative Text Embeddings via Iterative Contrastive Refinement. [[paper](https://arxiv.org/abs/2509.24291)]
 - [2025/09] AXIS: Explainable Time Series Anomaly Detection with Large Language Models. [[paper](https://arxiv.org/abs/2509.24378)]
+- [2025/08] LLM-TPF: Multiscale Temporal Periodicity-Semantic Fusion LLMs for Time Series Forecasting. [[paper](https://www.ijcai.org/proceedings/2025/671)]
+- [2025/08] Beyond Statistical Analysis: Multimodal Framework for Time Series Forecasting with LLM-Driven Temporal Pattern. [[paper](https://www.ijcai.org/proceedings/2025/745)]
 - [2025/08] UniCast: A Unified Multimodal Prompting Framework for Time Series Forecasting. [[paper](https://arxiv.org/abs/2508.11954)]
 - [2025/08] Semantic-Enhanced Time-Series Forecasting via Large Language Models. [[paper](https://arxiv.org/abs/2508.07697)]
 - [2025/08] From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization. [[paper](https://arxiv.org/abs/2508.09191)]
@@ -170,6 +185,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2025/07] DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework. [[paper](https://arxiv.org/abs/2507.21830)]
 - [2025/06] Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives. [[paper](https://arxiv.org/abs/2506.24124)]
 - [2025/05] Human in the Loop Adaptive Optimization for Improved Time Series Forecasting. [[paper](https://arxiv.org/abs/2505.15354)]
+- [2025/04] Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34371)]
 - [2025/03] TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop. [[paper](https://arxiv.org/abs/2503.01013)]
 - [2025/03] GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images. [[paper](https://arxiv.org/abs/2503.06073)]
 - [2025/02] Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative. [[paper](https://arxiv.org/abs/2502.08942)]
@@ -196,6 +212,8 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2022/10] PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting. [[paper](https://arxiv.org/abs/2210.08964)]
 
 #### Temporal Reasoning
+- [2026/07] Inferring Events from Time Series using Language Models. [[paper](https://aclanthology.org/2026.acl-long.157/)]
+- [2026/07] Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection Prompting. [[paper](https://aclanthology.org/2026.findings-acl.2054/)]
 - [2026/05] Reasoning-Aware Training for Time Series Forecasting. [[paper](https://arxiv.org/abs/2605.08625)]
 - [2026/05] Reasoning through Verifiable Forecast Actions: Consistency-Grounded RL for Financial LLMs. [[paper](https://arxiv.org/abs/2605.21975)]
 - [2026/02] TimeOmni-VL: Unified Models for Time Series Understanding and Generation. [[paper](https://arxiv.org/abs/2602.17149)]
@@ -218,6 +236,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2025/02] Retrieval-augmented Large Language Models for Financial Time Series Forecasting. [[paper](https://arxiv.org/abs/2502.05878)]
 - [2024/08] Can LLMs Serve as Time Series Anomaly Detectors?. [[paper](https://arxiv.org/abs/2408.03475)]
 - [2024/02] LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting. [[paper](https://arxiv.org/abs/2402.16132)]
+- [2023/12] Large Language Models Are Zero-Shot Time Series Forecasters. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3eb7ca52e8207697361b2c0fb3926511-Abstract-Conference.html)]
 
 ### Agentic Time Series Systems
 
@@ -236,6 +255,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2024/05] CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System. [[paper](https://arxiv.org/abs/2405.14691)]
 
 #### Reasoning Agents
+- [2026/07] CTRL: Control-Based Time Series Forecasting with LLM-Guided Residual Learning. [[paper](https://aclanthology.org/2026.findings-acl.1104/)]
 - [2026/05] KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning. [[paper](https://arxiv.org/abs/2605.30002)]
 - [2026/05] SAGE: Detecting Time Series Anomalies Like an Expert: A Multi-Agent LLM Framework with Specialized Analyzers. [[paper](https://arxiv.org/abs/2605.05725)]
 - [2026/02] AnomaMind: Agentic Time Series Anomaly Detection with Tool-Augmented Reasoning. [[paper](https://arxiv.org/abs/2602.13807)]
@@ -250,6 +270,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2024/10] TS-Reasoner: Domain-Oriented Time Series Inference Agents for Reasoning and Automated Analysis. [[paper](https://arxiv.org/abs/2410.04047)]
 
 #### Planning and Action Agents
+- [2026/07] Agent for Numerical Data Retrieval and Understanding by Code Generation and Multimodal Reasoning. [[paper](https://aclanthology.org/2026.findings-acl.1924/)]
 - [2026/06] Harnessing Generalist Agents for Contextualized Time Series. [[paper](https://arxiv.org/abs/2606.05404)]
 - [2026/06] GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis. [[paper](https://arxiv.org/abs/2606.05860)]
 - [2026/05] Nexus: An Agentic Framework for Time Series Forecasting. [[paper](https://arxiv.org/abs/2605.14389)]
@@ -271,6 +292,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2025/05] R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization. [[paper](https://arxiv.org/abs/2505.15155)]
 - [2025/05] MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices. [[paper](https://arxiv.org/abs/2505.10607)]
 - [2025/05] AD-AGENT: A Multi-agent Framework for End-to-end Anomaly Detection. [[paper](https://arxiv.org/abs/2505.12594)]
+- [2025/04] Filtered not Mixed: Filtering-Based Online Gating for Mixture of Large Language Models. [[paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/d4c2f25bf0c33065b7d4fb9be2a9add1-Abstract-Conference.html)]
 - [2025/01] Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via LLMs. [[paper](https://arxiv.org/abs/2501.14170)]
 - [2024/12] TradingAgents: Multi-Agents LLM Financial Trading Framework. [[paper](https://arxiv.org/abs/2412.20138)]
 - [2024/07] FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making. [[paper](https://arxiv.org/abs/2407.06567)]
@@ -320,6 +342,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2025/10] Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision. [[paper](https://arxiv.org/abs/2510.16980)]
 - [2025/06] FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for Financial Decision-Making. [[paper](https://arxiv.org/abs/2506.09080)]
 - [2025/05] MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks. [[paper](https://www.scilit.com/publications/mas-lstm)]
+- [2024/12] Are Language Models Actually Useful for Time Series Forecasting?. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6ed5bf446f59e2c6646d23058c86424b-Abstract-Conference.html)]
 
 ## 👋 Contributing
 
