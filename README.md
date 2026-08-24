@@ -113,6 +113,7 @@ models, LLM4TS, and time series agents." width="80%" />
 
 #### Event Forecasting and Future Prediction
 
+- [2026/08] ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction. [[paper](https://arxiv.org/abs/2608.20920)]
 - [2026/01] FutureX-Pro: Extending Future Prediction to High-Value Vertical Domains. [[paper](https://arxiv.org/abs/2601.12259)]
 - [2025/10] LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena. [[paper](https://arxiv.org/abs/2510.17638)]
 - [2025/08] FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction. [[paper](https://arxiv.org/abs/2508.11987)]
