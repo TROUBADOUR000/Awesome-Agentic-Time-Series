@@ -318,6 +318,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2023/11] FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design. [[paper](https://arxiv.org/abs/2311.13743)]
 
 #### World-Model and Data Agents
+- [2026/08] AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search. [[paper](https://arxiv.org/abs/2608.11250)] [[code](https://github.com/AutoResearch-Factory/AgonAlpha)]
 - [2026/05] Chronicle: A Multimodal Foundation Model for Joint Language and Time Series Understanding. [[paper](https://arxiv.org/abs/2605.20268)]
 - [2026/05] AegisTS: A Hierarchical Agent System with Reinforcement Learning for Multivariate Time Series Data Cleaning. [[paper](https://arxiv.org/abs/2605.04902)]
 - [2026/04] Time Series Augmented Generation for Financial Applications. [[paper](https://arxiv.org/abs/2604.19633)]
